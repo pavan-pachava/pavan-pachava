@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pavan-pachava
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...c pro
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning OS, ML and Infosec
 - 📫 How to reach me ...gmail-ppavan2001@gmail.com
 
 <!---
