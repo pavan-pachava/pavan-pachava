@@ -1,6 +1,6 @@
 Hi there 👋 ,
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning User Interaction and Dev of Products, OS and Webdev
+- 👀 I’m interested in software dev, AI/ML eng and designing
+- 🌱 I’m currently learning
 - 📫 How to reach me <ul>
   <li> Facebook - <a href="https://www.facebook.com/profile.php?id=100093325334077"> Pavan Pachava </a> </li>
   <li> Linkedin - <a href="https://www.linkedin.com/in/pavan-pachava/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BhF%2BOdmRuSRmFipAx7KZmDQ%3D%3D"> Pavan Pachava </a> </li>
